@@ -1,0 +1,5 @@
+TOKEN = "1966592334:AAF_5MvHjiXO8EEzkCiE1lUBtVh4_GcCDSw"
+URL_JIHC = "https://www.jihc.kz"
+URL_APPLE = "https://www.apple.com"
+URL_JHC = "https://www.youtube.com"
+URL_CLOCK = "https://www.edclub.com"
